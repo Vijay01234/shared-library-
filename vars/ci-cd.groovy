@@ -1,4 +1,4 @@
-def Git(code)
+def Git(repo)
 {
-  "https://github.com/Vijay01234/${code}.git"
+  "https://github.com/Vijay01234/${repo}.git"
 }
